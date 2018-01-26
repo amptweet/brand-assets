@@ -1,2 +1,2 @@
-# brand-project
-The repository for drafting AmpTweet's brand assets.
+# AmpTweet Brand Assets
+This is the repository for drafting AmpTweet's brand assets.
